@@ -1,7 +1,1 @@
-# some
-
-
-Ooooh here is a try
-
-
-Grreat
+go get some
